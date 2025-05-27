@@ -4,7 +4,11 @@
 
 ### Jansen Choi Kai Xuan — `@choijans`
 
-Hi, I'm **Jans** — a second-year **Bachelor of Science in Information Technology (BSIT)** student at the **University of San Carlos**. I'm currently learning a mix of **Full-Stack Web Development** and **Networking Fundamentals**. I love to explore new ideas and concepts that spark my interest 🚀
+Hi, I'm **Jans** — a second-year **Bachelor of Science in Information Technology (BSIT)** student at the **University of San Carlos**. 
+
+I'm currently learning a mix of **Full-Stack Web Development** and **Networking Fundamentals**. 
+
+I love to explore new ideas and concepts that spark my interest 🚀
 
 <details>
   <summary><strong>🛠️ Technology Stack</strong></summary>
