@@ -1,18 +1,10 @@
-<div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td align="left" width="60%" style="border: none;">
-        <h2>Jansen Choi Kai Xuan — <code>@choijans</code></h2>
-        <p>Hi, I'm <strong>Jans</strong> — a second-year <strong>Bachelor of Science in Information Technology (BSIT)</strong> student at the <strong>University of San Carlos</strong>.</p>
-        <p>I'm currently learning a mix of <strong>Full-Stack Web Development</strong> and <strong>Networking Fundamentals</strong>.</p>
-        <p>I love to explore new ideas and concepts that spark my interest 🚀</p>
-      </td>
-      <td align="right" width="40%" style="border: none;">
-        <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="250" alt="Hacker Cat" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="left">
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="200" align="right" style="margin-left: 50px;" />
+</p>
+
+### Jansen Choi Kai Xuan — `@choijans`
+
+Hi, I'm **Jans** — a second-year **Bachelor of Science in Information Technology (BSIT)** student at the **University of San Carlos**. I'm currently learning a mix of **Full-Stack Web Development** and **Networking Fundamentals**. I love to explore new ideas and concepts that spark my interest 🚀
 
 <details>
   <summary><strong>🛠️ Technology Stack</strong></summary>
